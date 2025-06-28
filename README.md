@@ -12,6 +12,7 @@ A simple Python-based command-line tool that lets you **encrypt and decrypt file
 - 🗝️ Secure key generation and reuse
 - 💻 Command-line interface (CLI)
 
+
 ---
 
 ## 🛠️ Technologies Used
