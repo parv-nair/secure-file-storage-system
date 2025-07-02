@@ -13,6 +13,7 @@ A simple Python-based command-line tool that lets you **encrypt and decrypt file
 - 💻 Command-line interface (CLI)
 
 
+
 ---
 
 ## 🛠️ Technologies Used
