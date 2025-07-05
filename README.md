@@ -2,6 +2,7 @@
 
 A simple Python-based command-line tool that lets you **encrypt and decrypt files** using **AES-256 (Fernet)** encryption. The tool logs all actions (encryption & decryption) and verifies file integrity using **SHA-256** hashes.
 
+
 ---
 
 ## 🚀 Features
