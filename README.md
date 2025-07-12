@@ -28,6 +28,7 @@ A simple Python-based command-line tool that lets you **encrypt and decrypt file
 ## 📦 Project Structure
 
 ```
+
 secure-file-storage-system/
 ├── main.py               # Main script
 ├── files/                # Add files to encrypt/decrypt here
