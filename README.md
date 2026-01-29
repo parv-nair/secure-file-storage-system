@@ -6,7 +6,7 @@ A simple Python-based command-line tool that lets you **encrypt and decrypt file
 ---
 
 
-## 🚀 Features
+## 🚀 Features of SFSSWAESE
 
 - 🔐 AES-256 encryption/decryption via `cryptography`
 - 📁 Works on any file format (text, image, etc.)
